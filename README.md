@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Mohsen Yeganloo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF700&center=true&multiline=true&random=true&width=435&lines=My+name+is+Mohsen+Yeganloo;I+m+Devops+Engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF700&center=true&multiline=true&random=true&width=435&lines=I+m+Devops+Engineer+)](https://git.io/typing-svg)
 
-# Hi there 👋 I'm Mohsen Yeganloo
 
 ### 🚀 Senior DevOps Engineer & Infrastructure Architect
 With over **20 years of experience** in IT operations and infrastructure, I specialize in building scalable, resilient, and automated systems. Currently, I'm leading DevOps teams to optimize delivery pipelines and cloud-native architectures.
