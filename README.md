@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF700&center=true&multiline=true&random=true&width=435&lines=I+m+Devops+Engineer+)](https://git.io/typing-svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=myeganloo&include_all_commits=true&theme=merko)
+// ![Stats](https://github-readme-stats.vercel.app/api?username=myeganloo&include_all_commits=true&theme=merko)
 
 
 ### 🚀 Senior DevOps Engineer & Infrastructure Architect
