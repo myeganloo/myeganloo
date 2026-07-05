@@ -25,6 +25,10 @@ With over **20 years of experience** in IT operations and infrastructure, I spec
 * **Networking:** Cisco, MikroTik, Fortigate, HAProxy.
 * **High Availability:** Galera, Redis Sentinel, Percona.
 
+## 🛠️ Featured Projects
+- [enterprise-data-platform](link) — Scalable HA data platform with Kafka & CDC pipelines
+- [mysql-k8s-cluster](link) — Production-grade MySQL cluster on Kubernetes
+
 ### 💬 Ask Me About
 * How to scale infrastructure from zero to **250+ VMs**.
 * Optimizing CI/CD pipelines to boost deployment speed by **30%**.
