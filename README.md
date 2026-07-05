@@ -33,7 +33,7 @@ With over **20 years of experience** in IT operations and infrastructure, I spec
 ### 📫 How to Reach Me
 * **LinkedIn:** [linkedin.com/in/mohsen-yeganloo-66b91286](https://linkedin.com/in/mohsen-yeganloo-66b91286)
 * **Email:** yeganloo@gmail.com
-* **Location:** Tehran, Iran (Open to Relocation)
+* **Location:** Remote (open to relocation & international remote roles)
 
 ---
 *"Automating the world, one pipeline at a time."*
